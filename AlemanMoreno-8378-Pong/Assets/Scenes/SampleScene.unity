@@ -2748,7 +2748,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4340873902489401141, guid: 081e8900ecfcf7f41976a38d3a684f06, type: 3}
       propertyPath: m_TagString
-      value: rightScore
+      value: leftScore
       objectReference: {fileID: 0}
     - target: {fileID: 5739873988237562621, guid: 081e8900ecfcf7f41976a38d3a684f06, type: 3}
       propertyPath: m_LocalPosition.x
